@@ -1,0 +1,12 @@
+
+# ignore all
+*
+# exclude dirs
+!*/
+# ignore-dir
+
+# exclude files
+!.gitignore
+!**/*.md
+!**/*.png
+
